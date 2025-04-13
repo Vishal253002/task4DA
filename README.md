@@ -1,7 +1,7 @@
-# 🛍️ Retail Sales Dashboard - Tableau Project
+# 🛍️ Retail Sales Dashboard 
 
 ## 📌 Task Overview
-This project was completed as part of a Data Analyst Internship Task. The goal was to design an **interactive dashboard** using Tableau based on a retail sales dataset.
+This project was completed as part of a Data Analyst Internship Task. The goal was to design an **interactive dashboard** using PowerBI based on a retail sales dataset.
 
 ---
 
@@ -46,7 +46,7 @@ This project was completed as part of a Data Analyst Internship Task. The goal w
 
 ---
 
-## 🛠 How to Use the Dashboard (Tableau)
+## 🛠 How to Use the Dashboard 
 
 1. Open Power BI
 2. Connect to the `retail_sales_dataset.csv` file
@@ -75,5 +75,5 @@ It supports informed decision-making for marketing and product strategies.
 
 ## 📁 Files Included
 - `retail_sales_dataset.csv`
-- `Task-3-DA.pbix` (Tableau workbook)
+- `Task-3-DA.pbix`
 - `README.md`
